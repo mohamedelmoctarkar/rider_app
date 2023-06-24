@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55062991767",
+    "project_id": "flutter-uber-e9c31",
+    "storage_bucket": "flutter-uber-e9c31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55062991767:android:5687d624809f4a30746ad2",
+        "android_client_info": {
+          "package_name": "com.mohamedkar.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55062991767-7n83t9dijgm53skoofcanflfk3267g0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgEwMeU6swDB6969FMKM5fobVSVwu_i6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55062991767-7n83t9dijgm53skoofcanflfk3267g0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
